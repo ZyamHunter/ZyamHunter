@@ -32,8 +32,8 @@
 ![Python Badge](https://img.shields.io/badge/Python-%20-blue)
 ![Linux](https://img.shields.io/badge/Linux-%20-orange)
 ![Node.JS](https://img.shields.io/badge/NodeJS-%20-green)
-![Jmeter](https://img.shields.io/badge/Jmeter-%20-black)
-![K6](https://img.shields.io/badge/K6-%20-black)
+![Jmeter](https://img.shields.io/badge/Jmeter-%20-blue)
+![K6](https://img.shields.io/badge/K6-%20-blue)
 ![Others](https://img.shields.io/badge/OthersButIDontRemeber-%20-black)
               
 ### 🚧 Work In Progress
