@@ -40,8 +40,8 @@
 
 ---
 
-![AWS](https://img.shields.io/badge/AWS-%20-yellow)
-![Serverless](https://img.shields.io/badge/Serverless-%20-red)
+![AWS](https://img.shields.io/badge/AWS-%20-black)
+![Serverless](https://img.shields.io/badge/Serverless-%20-black)
 ![HHTPARTY](https://img.shields.io/badge/HTTParty-%20-black)
               
 ---
