@@ -32,16 +32,16 @@
 ![Python Badge](https://img.shields.io/badge/Python-%20-blue)
 ![Linux](https://img.shields.io/badge/Linux-%20-orange)
 ![Node.JS](https://img.shields.io/badge/NodeJS-%20-green)
-![AWS](https://img.shields.io/badge/AWS-%20-yellow)
-![Serverless](https://img.shields.io/badge/Serverless-%20-red)
+![Jmeter](https://img.shields.io/badge/Jmeter-%20-black)
+![K6](https://img.shields.io/badge/K6-%20-black)
 ![Others](https://img.shields.io/badge/OthersButIDontRemeber-%20-black)
               
 ### 🚧 Work In Progress
 
 ---
 
-![Jmeter](https://img.shields.io/badge/Jmeter-%20-black)
-![K6](https://img.shields.io/badge/K6-%20-black)
+![AWS](https://img.shields.io/badge/AWS-%20-yellow)
+![Serverless](https://img.shields.io/badge/Serverless-%20-red)
 ![HHTPARTY](https://img.shields.io/badge/HTTParty-%20-black)
               
 ---
