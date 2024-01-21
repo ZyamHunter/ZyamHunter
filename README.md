@@ -22,7 +22,8 @@
 
 ![Robot Framework Badge](https://img.shields.io/badge/Robot-%20-blue)
 ![Selenium Badge](https://img.shields.io/badge/Selenium-%20-blue)
-![Apium Badge](https://img.shields.io/badge/Appium-%20-blue)
+![Appium Badge](https://img.shields.io/badge/Appium-%20-blue)
+![Codecept Badge](https://img.shields.io/badge/Appium-%20-blue)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-%20-blue)
 ![CSS Badge](https://img.shields.io/badge/CSS-%20-blue)
 ![Git Badge](https://img.shields.io/badge/Git-%20-orange)
@@ -30,7 +31,6 @@
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-%20-yellow)
 ![Typescript Badge](https://img.shields.io/badge/TypeScript-%20-blue)
 ![Python Badge](https://img.shields.io/badge/Python-%20-blue)
-![Linux](https://img.shields.io/badge/Linux-%20-orange)
 ![Node.JS](https://img.shields.io/badge/NodeJS-%20-green)
 ![Jmeter](https://img.shields.io/badge/Jmeter-%20-blue)
 ![K6](https://img.shields.io/badge/K6-%20-blue)
