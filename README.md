@@ -3,7 +3,7 @@
 
 ---
 
-<p style="text-align: center;">I am a Quality Analyst with 4 years of experience, and previously with 2 years of experience as a developer. I am passionate ❤️ about my profession and love documenting, testing and automating processes. Evangelizing quality assurance in diverse ways</p>
+<p style="text-align: center;">I am a Quality Analyst with 5 years of experience, and previously with 2 years of experience as a developer. I am passionate ❤️ about my profession and love documenting, testing and automating processes. Evangelizing quality assurance in diverse ways</p>
 
 <br />
 
